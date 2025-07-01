@@ -63,8 +63,7 @@ Kiểm thử cơ bản của 1 trang WEB
 > ✅ Không có lỗi xảy ra trong quá trình gửi yêu cầu  
 > ✅ JMeter thực hiện đúng với cấu hình (1 user, 1 request)
 
----
+![Ảnh chụp màn hình 2025-07-01 164234](https://github.com/user-attachments/assets/c1356cba-3521-4bfb-861b-5247e6470678)
+![Ảnh chụp màn hình 2025-07-01 164332](https://github.com/user-attachments/assets/fc4f1855-f95b-4fe7-bc49-a830b9265a1d)
+![Ảnh chụp màn hình 2025-07-01 164400](https://github.com/user-attachments/assets/5e830909-3dbd-4946-bc7d-534cb2252fab)
 
-## 📂 File đính kèm (nếu có)
-- `loadTest_01.jmx` – Kịch bản test
-- `result_01.csv` – Kết quả test (từ Summary Report)
